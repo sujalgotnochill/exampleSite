@@ -19,4 +19,4 @@ The theme includes:
 - **really nice, custom duotone** syntax highlighting based on [**PrismJS**](https://prismjs.com)
 - mobile friendly layout
 
-So, there you have it... enjoy!
+So, there you have it... enjoy!!
